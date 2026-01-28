@@ -1,13 +1,18 @@
 {
-  "updated": "2026-01-28T14:04:43.290056",
-  "total": 1,
-  "http": 1,
+  "updated": "2026-01-28T14:06:47.300045",
+  "total": 2,
+  "http": 2,
   "https": 0,
   "fastest": [
     {
-      "proxy": "8.221.139.222:9992",
+      "proxy": "145.220.178.12:9050",
       "protocol": "http",
-      "speed": 2.5
+      "speed": 0.4
+    },
+    {
+      "proxy": "31.220.78.244:80",
+      "protocol": "http",
+      "speed": 7.6
     }
   ]
 }
