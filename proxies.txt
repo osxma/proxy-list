@@ -1,6 +1,6 @@
 # Auto-Updated Proxy List (Instagram Tested)
-# Last Update: 2026-01-31 08:38:46
-# Total Proxies: 201
+# Last Update: 2026-01-31 08:38:48
+# Total Proxies: 202
 # Updates every 5 minutes
 # Tested against: https://www.instagram.com/instagram/
 
@@ -181,6 +181,7 @@
 181.78.71.171:999
 103.154.230.94:8090
 188.129.255.58:80
+152.42.170.187:9090
 160.25.196.30:8090
 203.190.117.251:8123
 43.199.229.139:3128
